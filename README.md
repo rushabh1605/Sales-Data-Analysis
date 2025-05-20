@@ -75,6 +75,7 @@ jupyter notebook "Sales Analysis.ipynb"
 ## 📬 Contact
 
 **Rushabh Thakkar**
+
 🔗 [LinkedIn](https://www.linkedin.com/in/rushabhthakkar)  
 🔗 [GitHub](https://github.com/rushabh1605)
 
