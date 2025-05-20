@@ -56,5 +56,25 @@ cd Sales-Data-Analysis
 ```bash 
 pip install pandas matplotlib
 ```
+3.	Run the Jupyter Notebook:
+```bash
+jupyter notebook "Sales Analysis.ipynb"
+```
+## 🧠 Insights Extracted
 
+- **December** had the highest total sales.  
+- **San Francisco, CA** led in sales volume, followed by **New York City, NY**.  
+- Peak purchase hours were **11 AM** and **7 PM**, ideal for ad placements.  
+- Products often bought together included:
+  - *iPhone & Lightning Charging Cable*
+  - *Google Phone & USB-C Charging Cable*
+- **AAA and AA batteries** sold the most due to their low price and high necessity.
+
+---
+
+## 📬 Contact
+
+**Rushabh Thakkar**
+🔗 [LinkedIn](https://www.linkedin.com/in/rushabhthakkar)  
+🔗 [GitHub](https://github.com/rushabh1605)
 
