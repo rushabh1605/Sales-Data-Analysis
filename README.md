@@ -1,4 +1,4 @@
-# 📊 Sales Data Analysis
+#Sales Data Analysis
 
 This project explores comprehensive sales data from an online retail company to derive insights such as sales performance by month, top-selling products, popular purchase combinations, and optimal advertising times.
 
@@ -6,7 +6,7 @@ The analysis was performed using `pandas`, `matplotlib`, and Python’s built-in
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 ```bash
 ├── Sales Analysis.ipynb              # Main analysis notebook
 ├── Sales_Data/                       # Raw monthly sales data files
@@ -16,7 +16,7 @@ The analysis was performed using `pandas`, `matplotlib`, and Python’s built-in
 ```
 ---
 
-## 📌 Objectives
+## Objectives
 
 - Combine and clean multiple CSV files containing monthly sales data.
 - Derive new features (month, city, hour, total sales).
@@ -24,17 +24,17 @@ The analysis was performed using `pandas`, `matplotlib`, and Python’s built-in
 
 ---
 
-## ⚙️ Key Features
+## Key Features
 
-- 📅 **Best Month for Sales**: Identified based on total revenue.
-- 🏙️ **Top Performing Cities**: Based on total sales.
-- 🕒 **Optimal Advertisement Time**: Based on order volume per hour.
-- 🛍️ **Most Common Product Pairs**: Frequently bought together items.
-- 📦 **Top-Selling Products**: Based on quantity sold and price comparison.
+- **Best Month for Sales**: Identified based on total revenue.
+- **Top Performing Cities**: Based on total sales.
+- **Optimal Advertisement Time**: Based on order volume per hour.
+- **Most Common Product Pairs**: Frequently bought together items.
+- **Top-Selling Products**: Based on quantity sold and price comparison.
 
 ---
 
-## 📈 Sample Visualizations
+## Sample Visualizations
 
 - Bar chart of monthly sales
 - Sales by city
@@ -43,7 +43,7 @@ The analysis was performed using `pandas`, `matplotlib`, and Python’s built-in
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -60,7 +60,7 @@ pip install pandas matplotlib
 ```bash
 jupyter notebook "Sales Analysis.ipynb"
 ```
-## 🧠 Insights Extracted
+## Insights Extracted
 
 - **December** had the highest total sales.  
 - **San Francisco, CA** led in sales volume, followed by **New York City, NY**.  
@@ -72,7 +72,7 @@ jupyter notebook "Sales Analysis.ipynb"
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Rushabh Thakkar**
 
